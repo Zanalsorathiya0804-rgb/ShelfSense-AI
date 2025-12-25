@@ -1,5 +1,4 @@
 # ShelfSense AI – Real-Time Smart Inventory Monitoring for Small Shops
-
 ## Project Summary
 
 **ShelfSense AI** is a real-time smart inventory monitoring system designed to help small shops (such as grocery stores, pharmacies, mobile stores, etc.) automatically track products on their shelves. By leveraging AI, computer vision, and real-time data processing, the system detects and monitors product stock levels to reduce stock-outs, understocking, and inefficient inventory management.
